@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: RajniGitProject0303Project
+  gitServerName: RajniVC
+  gitUrl: https://github.com/Rajni25Aug
+  gitUsername: Rajni25Aug
+  gitBranch: main
